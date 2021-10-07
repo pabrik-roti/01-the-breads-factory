@@ -1,7 +1,7 @@
 # Pabrik Roti
-Bermain, Belajar, dan Bekerja.
+Playing, Learning, and Working.
 
-Baca selengkapnya:
-https://github.com/Pabrik-Roti/Pabrik/wiki
+Read more here:
+https://github.com/Pabrik-Roti/00-Factory/wiki
 
-© 2021 oleh Pabrik Roti Indonesia
+© 2021 by Pabrik Roti Indonesia
