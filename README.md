@@ -4,4 +4,4 @@ Playing, Learning, and Working.
 Read more here:
 https://github.com/pabrik-roti/01-the-breads-factory/wiki
 
-Salam, Kondom Berduri! © 2021 by Pabrik Roti Indonesia
+Kondom Berduri! © 2021 by Pabrik Roti Indonesia
