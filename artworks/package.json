@@ -1,0 +1,24 @@
+{
+  "name": "thebreadsfactory_logo10k",
+  "version": "1.4.7",
+  "description": "These repos contain all the code used for creating generative artwork. Before you use these engine, make sure you already eat some breads. Okay!!!",
+  "main": "index.js",
+  "bin": "index.js",
+  "pkg": {
+    "assets": [
+      "layers/**/*",
+      "node_modules/**/*",
+      "src/**/*"
+    ]
+  },
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@MyReceipt",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "sha1": "^1.1.1"
+  }
+}
