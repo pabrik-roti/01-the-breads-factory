@@ -4,7 +4,7 @@
 
 Amended by @MyReceipt
 
-These codes were created for the purpose to build an dApp lazy minting for The Breads Factory: Logo 10k - Logo of The Breads Factory, an NFT project by @PabrikRoti.IDN.
+These codes were created for the purpose to [build an dApp](https://iqraa.straight-line.org/the-kings-nfts/03-the-story.../the-end-of-the-universe.) lazy minting for The Breads Factory: Logo 10k - Logo of The Breads Factory, an [NFT project by @PabrikRoti.IDN](https://iqraa.straight-line.org/the-kings-nfts/04-the-12th-stage.../the-breads-factory#breads).
 
 The complete story can be read here:
 
