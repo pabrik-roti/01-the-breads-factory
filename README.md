@@ -8,7 +8,7 @@ These codes were created for the purpose to build an dApp lazy minting for The B
 
 The complete story can be read here:
 
-[https://github.com/pabrik-roti/01-the-breads-factory/wiki](https://iqraa.straight-line.org/the-kings-nfts/04-the-12th-stage.../the-breads-factory)https://iqraa.straight-line.org/the-kings-nfts/04-the-12th-stage.../the-breads-factory
+[https://github.com/pabrik-roti/01-the-breads-factory/wiki](https://iqraa.straight-line.org/the-kings-nfts/04-the-12th-stage.../the-breads-factory)
 
 @MyReceipt - AMK - AHA. LLF.
 
